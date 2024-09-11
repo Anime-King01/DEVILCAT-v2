@@ -25,7 +25,7 @@ global.packname = 'Sticker By'
 global.author = '𝕷𝖔𝖗𝖉 𝕹𝖔 𝕹𝖆𝖒𝖊\n\nContact: +2348133286181'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '😈'
 global.wm = "No Name Tech."
 
 //theme link
